@@ -1,6 +1,6 @@
 {
 
-    "name": "CECBOT",
+    "name": "cecbot-off",
     "description": "bot cec",
     "version": "0.0.0",
     "main": "index.js",
